@@ -3,6 +3,8 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-abrantes-09aa2023b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielOlint0&layout=compact&theme=dracula)
 ## Tecnologias que uso no meu dia
 
 <div style="diplay: inline_block"><br/> 
